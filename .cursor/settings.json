@@ -1,0 +1,5 @@
+{
+  "editor.codeLens": true,
+  "playwrightrunner.disableCodeLens": false,
+  "playwrightrunner.codeLensSelector": "**/*.{test,spec}.{js,jsx,ts,tsx}"
+}
